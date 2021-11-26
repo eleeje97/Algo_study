@@ -20,7 +20,6 @@ public class BaekJoon2460 {
             current += in.get(i);
 
             max = (current > max) ? current : max;
-            System.out.println(max);
         }
 
 
